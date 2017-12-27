@@ -1,0 +1,27 @@
+{
+  "name": "react-google-translate",
+  "version": "0.0.5",
+  "description": "A very simple component that adds google translate to your react project fast and easzy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kondoSoft/react-google-translate.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "google",
+    "component",
+    "kondosoft",
+    "cyberpolin"
+  ],
+  "author": "@cyberpolin for KondoSoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kondoSoft/react-google-translate/issues"
+  },
+  "homepage": "https://github.com/kondoSoft/react-google-translate#readme"
+}
