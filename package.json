@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/kondoSoft/react-google-translate/issues"
   },
-  "homepage": "https://github.com/kondoSoft/react-google-translate#readme"
+  "homepage": "https://github.com/kondoSoft/react-google-translate#readme",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
 }
